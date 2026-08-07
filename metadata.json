@@ -1,0 +1,6 @@
+{
+  "name": "Tactical Guardian",
+  "description": "An offline-first tactical emergency responder hub for real-time supply tracking, incident reporting, and safety beacon monitoring in crisis zones.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
