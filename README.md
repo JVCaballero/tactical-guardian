@@ -75,7 +75,7 @@ The visual identity follows a strict **tactical intelligence aesthetic**:
 3. **Voice-over-IP (VoIP) & Push-To-Talk (PTT)**:
    - WebRTC audio stream channels simulating tactical radio walkie-talkie loops between field units and base command.
 4. **Predictive Flood Elevation AI**:
-   - Dynamic river height simulation modeling water flow vectors against PAGASA rainfall forecasts using Gemini grounding.
+   - Dynamic river height simulation modeling water flow vectors against PAGASA rainfall forecasts using Gemini or any LLM models grounding fine-tuned for weather related analysis.
 
 ---
 
